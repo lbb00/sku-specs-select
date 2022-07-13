@@ -1,0 +1,14 @@
+{
+  "name": "sku-specs-select",
+  "version": "0.1.0",
+  "description": "sku specifications select",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "src"
+  ],
+  "author": "lbb",
+  "license": "UNLICENSE (HTTP://UNLICENSE.ORG/)"
+}
